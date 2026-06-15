@@ -1,0 +1,10 @@
+CS100,Introduction to Computer Science
+CS200,Data Structures,CS100
+CS300,Algorithms,CS200
+CS350,Operating Systems,CS300
+CS400,Advanced Algorithms,CS300
+MATH100,College Algebra
+MATH200,Calculus I,MATH100
+MATH250,Discrete Mathematics,MATH100
+ENG100,English Composition
+ENG200,Advanced Writing,ENG100
