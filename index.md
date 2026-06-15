@@ -10,6 +10,14 @@
 
 <div class="container">
 
+<div class="hero">
+  <img src="https://via.placeholder.com/160" alt="Profile Placeholder">
+  <div class="hero-text">
+    <h1>Tashyra Adams</h1>
+    <p>Computer Science Student • Software Developer • Problem Solver</p>
+  </div>
+</div>
+
 
 
 # Welcome to My CS 499 ePortfolio
@@ -20,14 +28,14 @@ Here, you will find my enhanced artifacts, code review, and professional self‑
 
 ---
 
-##  ♡ Code Review
+##♡ Code Review
 A walkthrough of my original artifacts, enhancements, and the reasoning behind my improvements.
 
 - [Code Review – CS 499](code-review.md)
 
 ---
 
-## ㅤ♡ Enhanced Artifacts
+##♡ Enhanced Artifacts
 These are the improved versions of my original course projects.  
 Each enhancement demonstrates my ability to apply software engineering principles, algorithms, data structures, and database management.
 
@@ -37,7 +45,7 @@ Each enhancement demonstrates my ability to apply software engineering principle
 
 ---
 
-## ㅤ♡ Original Artifacts
+##♡ Original Artifacts
 These are the unmodified versions of the projects before enhancement.
 
 - [IT‑145 Original Code](artifacts/original/IT145/)
@@ -46,7 +54,7 @@ These are the unmodified versions of the projects before enhancement.
 
 ---
 
-## ㅤ♡ About This Portfolio
+##♡ About This Portfolio
 This ePortfolio demonstrates my ability to:
 
 - Design and implement software solutions  
