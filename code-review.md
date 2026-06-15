@@ -9,5 +9,6 @@
 - [DAD‑220 Original Code](artifacts/original/DAD220/)
 
 ## Enhanced Artifacts
+- [IT-145 Enhanced Code](artifacts/software-eng/)
 - [CS-300 Enhanced Code](artifacts/algorithms/)
 
