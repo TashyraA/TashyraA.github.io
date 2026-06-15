@@ -10,10 +10,11 @@
 /* --- NAVBAR --- */
 .navbar {
   background-color: var(--deep-brown);
-  padding: 16px 28px;
+  padding: 16px 32px;
   display: flex;
-  gap: 28px;
+  gap: 32px;
   align-items: center;
+  justify-content: flex-start;
   border-bottom: 3px solid var(--rose-brown);
 }
 
@@ -38,41 +39,50 @@ body {
 
 /* --- CONTAINER --- */
 .container {
-  padding: 40px;
+  padding: 50px 20px;
   max-width: 900px;
   margin: auto;
   line-height: 1.7;
 }
 
-/* --- PROFILE / HERO SECTION --- */
+/* --- HERO SECTION --- */
 .hero {
   background-color: var(--light-beige);
   padding: 40px;
-  border-radius: 12px;
+  border-radius: 16px;
   display: flex;
-  gap: 30px;
+  gap: 40px;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
   border: 2px solid var(--tan);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
 .hero img {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
   background-color: var(--tan);
-  border: 4px solid var(--rose-brown);
+  border: 5px solid var(--rose-brown);
 }
 
 .hero-text h1 {
   margin: 0;
-  font-size: 32px;
+  font-size: 36px;
   color: var(--deep-brown);
 }
 
 .hero-text p {
-  margin-top: 10px;
+  margin-top: 12px;
   font-size: 18px;
   color: #444;
+}
+
+/* --- SECTION HEADERS --- */
+h2 {
+  color: var(--deep-brown);
+  margin-top: 40px;
+  border-left: 6px solid var(--tan);
+  padding-left: 12px;
 }
