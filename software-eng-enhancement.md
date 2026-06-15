@@ -1,16 +1,3 @@
-<link rel="stylesheet" href="assets/style.css">
-
-<div class="navbar">
-  <a href="/">Home</a>
-  <a href="code-review.md">Code Review</a>
-  <a href="software-eng-enhancement.md">IT‑145 Enhancement</a>
-  <a href="algorithms-enhancement.md">CS‑300 Enhancement</a>
-  <a href="artifacts/original/IT145/">Original Artifacts</a>
-</div>
-
-<div class="container">
-
-
 # Software Design and Engineering Enhancement
 
 ## Overview
@@ -36,4 +23,3 @@ This artifact demonstrates my ability to:
 ## Link to Enhanced Code
 [View the enhanced Software Engineering artifact on GitHub](https://github.com/TashyraA/TashyraA.github.io/tree/main/artifacts/software-eng/)
 
-</div>
