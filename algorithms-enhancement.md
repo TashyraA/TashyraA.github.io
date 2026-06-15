@@ -1,3 +1,16 @@
+<link rel="stylesheet" href="assets/style.css">
+
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="code-review.md">Code Review</a>
+  <a href="software-eng-enhancement.md">IT‑145 Enhancement</a>
+  <a href="algorithms-enhancement.md">CS‑300 Enhancement</a>
+  <a href="artifacts/original/IT145/">Original Artifacts</a>
+</div>
+
+<div class="container">
+
+
 # Algorithms & Data Structures Enhancement
 
 ## Overview
@@ -23,3 +36,5 @@ This artifact demonstrates my ability to:
 
 ## Link to Enhanced Code
 [View the enhanced Algorithms artifact on GitHub](artifacts/algorithms/)
+
+</div>
