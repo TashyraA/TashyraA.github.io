@@ -1,3 +1,17 @@
+<link rel="stylesheet" href="assets/style.css">
+
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="code-review.md">Code Review</a>
+  <a href="software-eng-enhancement.md">IT‑145 Enhancement</a>
+  <a href="algorithms-enhancement.md">CS‑300 Enhancement</a>
+  <a href="artifacts/original/IT145/">Original Artifacts</a>
+</div>
+
+<div class="container">
+
+
+
 # Welcome to My CS 499 ePortfolio
 
 Hello, and thank you for visiting my ePortfolio.  
@@ -46,3 +60,6 @@ A final professional self‑assessment will be added in Module 7.
 ---
 
 Thank you for taking the time to explore my work.
+
+</div>
+
