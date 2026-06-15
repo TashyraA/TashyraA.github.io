@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/style.css">
+<<link rel="stylesheet" href="assets/style.css">
 
 <div class="navbar">
   <a href="/">Home</a>
