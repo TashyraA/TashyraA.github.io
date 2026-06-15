@@ -11,13 +11,12 @@
 <div class="container">
 
 <div class="hero">
-  <img src="https://via.placeholder.com/160" alt="Profile Placeholder">
+  <img src="https://via.placeholder.com/180" alt="Profile Placeholder">
   <div class="hero-text">
     <h1>Tashyra Adams</h1>
     <p>Computer Science Student • Software Developer • Problem Solver</p>
   </div>
 </div>
-
 
 
 # Welcome to My CS 499 ePortfolio
