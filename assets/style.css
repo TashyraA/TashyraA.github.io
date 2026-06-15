@@ -1,34 +1,78 @@
+/* --- COLOR PALETTE --- */
+:root {
+  --light-beige: #D9D2CC;
+  --off-white: #F2F1EF;
+  --tan: #D9B18E;
+  --rose-brown: #A67564;
+  --deep-brown: #723E31;
+}
+
 /* --- NAVBAR --- */
 .navbar {
-  background-color: #1e1e1e;
-  padding: 12px 20px;
+  background-color: var(--deep-brown);
+  padding: 16px 28px;
   display: flex;
-  gap: 20px;
+  gap: 28px;
   align-items: center;
+  border-bottom: 3px solid var(--rose-brown);
 }
 
 .navbar a {
-  color: #ffffff;
+  color: var(--off-white);
   text-decoration: none;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .navbar a:hover {
-  color: #4da3ff;
+  color: var(--tan);
 }
 
 /* --- PAGE LAYOUT --- */
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  padding: 0;
-  line-height: 1.6;
+  background-color: var(--off-white);
+  color: #333;
 }
 
+/* --- CONTAINER --- */
 .container {
-  padding: 30px;
+  padding: 40px;
   max-width: 900px;
   margin: auto;
+  line-height: 1.7;
 }
 
+/* --- PROFILE / HERO SECTION --- */
+.hero {
+  background-color: var(--light-beige);
+  padding: 40px;
+  border-radius: 12px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 40px;
+  border: 2px solid var(--tan);
+}
+
+.hero img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: var(--tan);
+  border: 4px solid var(--rose-brown);
+}
+
+.hero-text h1 {
+  margin: 0;
+  font-size: 32px;
+  color: var(--deep-brown);
+}
+
+.hero-text p {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #444;
+}
