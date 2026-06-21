@@ -33,4 +33,4 @@ Enhancing this artifact helped deepen my understanding of how data structures in
 ## Links
 👉 [View Algorithms Enhancement](artifact/algorithms)
 
-👉 [View Algorithms Artifact](artifact/original/CS300)  
+👉 [View Algorithms Artifact](artifacts/original/CS300)  
