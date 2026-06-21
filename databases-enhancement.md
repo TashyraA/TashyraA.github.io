@@ -31,6 +31,6 @@ This enhancement aligns with several Computer Science program outcomes. By redes
 Enhancing this artifact taught me a great deal about the importance of careful planning and attention to detail in database development. Rebuilding the environment required me to troubleshoot issues with data imports, resolve relationship conflicts, and ensure that the schema supported the expanded dataset. One challenge I faced was ensuring that all foreign key relationships were correctly defined after re-importing the data. I resolved this by reviewing the original schema, adjusting the order of table creation, and validating each relationship step-by-step. I also learned how small changes—such as adding a new column—can impact the overall structure and usability of a database. This enhancement strengthened my understanding of relational design, data integrity, and the practical considerations involved in maintaining and improving database systems.
 
 ## Links
-👉 [View Databases Enhancement](databases-enhancement.md) 
+👉 [View Databases Enhancement](artifacts/databases) 
 
 👉 [View Databases Artifact](artifacts/original/DAD220)  
