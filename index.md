@@ -19,7 +19,8 @@ Each enhancement demonstrates my ability to apply software engineering principle
 
 - [IT‑145 Enhanced Code (Software Engineering)](software-eng-enhancement.md)  
 - [CS‑300 Enhanced Code (Algorithms & Data Structures)](algorithms-enhancement.md)  
-- *(Coming in Module 7)* DAD‑220 Enhanced Code (Databases)
+- [DAD‑220 Enhanced Code (Databases)](databases-enhancement.md)  
+
 
 ---
 
