@@ -32,5 +32,5 @@ Enhancing this artifact helped me recognize how much I have grown since first co
 
 ## Links
 
-👉 **Enhanced IT 145 Code:** *(insert link to your enhanced IT 145 folder or file here)*  
-👉 **Original IT 145 Artifact:** *(insert link to your original IT 145 folder here)*  
+👉 [View Software Engineering Enhancement](software-eng-enhancement.md)  
+👉 [View Software Engineering Original](artifacts/original/IT145) 
