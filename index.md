@@ -1,52 +1,65 @@
-# Welcome to My CS 499 ePortfolio
+[Home](index.md) | [Self-Assessment](self-assessment.md) | [Code Review](code-review.md) | [Software Eng](software-eng-enhancement.md) | [Algorithms](algorithms-enhancement.md) | [Databases](databases-enhancement.md)
 
-Hello, and thank you for visiting my ePortfolio.  
-My name is Tashyra Adams, and this site showcases the work I completed for CS 499: Computer Science Capstone at Southern New Hampshire University.  
-Here, you will find my enhanced artifacts, code review, and professional self‑assessment demonstrating my growth as a software developer.
+# CS 499: Computer Science Capstone ePortfolio
 
-## Professional Self-Assessment
-[Read my self-assessment](self-assessment.md)
+Welcome to my professional ePortfolio for the CS 499 Computer Science Capstone. This site showcases my growth throughout the Computer Science program at Southern New Hampshire University through enhanced artifacts, technical documentation, and reflective writing.
 
 ---
 
-## ♡ Code Review  
-A walkthrough of my original artifacts, enhancements, and the reasoning behind my improvements.
-
-- [Code Review – CS 499](code-review.md)
-
----
-
-## ♡ Enhanced Artifacts  
-These are the improved versions of my original course projects.  
-Each enhancement demonstrates my ability to apply software engineering principles, algorithms, data structures, and database management.
-
-- [IT‑145 Enhanced Code (Software Engineering)](software-eng-enhancement.md)  
-- [CS‑300 Enhanced Code (Algorithms & Data Structures)](algorithms-enhancement.md)  
-- [DAD‑220 Enhanced Code (Databases)](databases-enhancement.md)  
-
+## 📌 Professional Self-Assessment  
+My professional self-assessment serves as an introduction to my skills, strengths, and development throughout the program.  
+👉 [Read my Professional Self-Assessment](self-assessment.md)
 
 ---
 
-## ♡ Original Artifacts  
-These are the unmodified versions of the projects before enhancement.
+## 📌 Code Review  
+As part of the capstone process, I completed an informal code review to evaluate my original artifacts and identify opportunities for enhancement.
 
-- [IT‑145 Original Code](artifacts/original/IT145/)  
-- [CS‑300 Original Code](artifacts/original/CS300/)  
-- [DAD‑220 Original Code](artifacts/original/DAD220/)
+👉 [View Code Review](code-review.md)
 
 ---
 
-## ♡ About This Portfolio  
-This ePortfolio demonstrates my ability to:
+## 📌 Enhanced Artifacts  
+These artifacts represent my growth in the three core areas required for the capstone:  
+**Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
 
-- Design and implement software solutions  
-- Apply algorithms and data structures effectively  
-- Build and manage relational databases  
-- Write clean, maintainable, and secure code  
-- Reflect on my professional growth as a developer  
+### 🔹 Software Design & Engineering (IT 145)  
+Enhancement focused on refactoring, improving class structure, strengthening input validation, and applying object‑oriented design principles.  
+👉 [View Software Engineering Enhancement](software-eng-enhancement.md)
 
-A final professional self‑assessment will be added in Module 7.
+### 🔹 Algorithms & Data Structures (CS 300)  
+Enhancement focused on improving the Binary Search Tree implementation, refining traversal logic, strengthening search operations, and improving documentation.  
+👉 [View Algorithms & Data Structures Enhancement](algorithms-enhancement.md)
+
+### 🔹 Databases (DAD 220)  
+Enhancement focused on rebuilding the database environment, expanding datasets, refining schema design, and improving data integrity.  
+👉 [View Databases Enhancement](databases-enhancement.md)
 
 ---
 
-Thank you for taking the time to explore my work.
+## 📌 Original Artifacts  
+These are the original versions of my projects before enhancements were applied.
+
+### 🔹 IT 145 – Original  
+👉 *(Insert link to your original IT 145 folder)*
+
+### 🔹 CS 300 – Original  
+👉 *(Insert link to your original CS 300 folder)*
+
+### 🔹 DAD 220 – Original  
+👉 *(Insert link to your original DAD 220 folder)*
+
+---
+
+## 📌 About This Portfolio  
+This ePortfolio was created to demonstrate mastery of the Computer Science program outcomes, including:
+
+- Collaborative development practices  
+- Professional communication  
+- Algorithmic problem-solving  
+- Software engineering and database design  
+- Security‑focused thinking  
+
+Each enhancement reflects my ability to apply these skills to real-world computing problems.
+
+Thank you for reviewing my work.
