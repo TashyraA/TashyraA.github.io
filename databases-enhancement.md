@@ -35,5 +35,5 @@ This enhancement demonstrates:
 Rebuilding the database taught me the importance of careful planning, validation, and troubleshooting.
 
 ## Links
-👉 **Enhanced SQL Files:** *(insert link)*  
-👉 **Original Artifact:** *(insert link)*  
+👉 [View Databases Enhancement](databases-enhancement.md) 
+👉 [View Databases Artifact](artifacts/original/DAD220)  
