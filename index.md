@@ -41,7 +41,7 @@ Enhancement focused on rebuilding the database environment, expanding datasets, 
 These are the original versions of my projects before enhancements were applied.
 
 ### 🔹 IT 145 – Original  
-👉 *(Insert link to your original IT 145 folder)*
+👉 [View Software Engineering Artifact](artifacts/original/software-eng)
 
 ### 🔹 CS 300 – Original  
 👉 *(Insert link to your original CS 300 folder)*
