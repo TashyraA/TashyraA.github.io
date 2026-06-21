@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 [Home](index.md) | [Self-Assessment](self-assessment.md) | [Code Review](code-review.md) | [Software Eng](software-eng-enhancement.md) | [Algorithms](algorithms-enhancement.md) | [Databases](databases-enhancement.md)
 
 # CS 499: Computer Science Capstone ePortfolio
