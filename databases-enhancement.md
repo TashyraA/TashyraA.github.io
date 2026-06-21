@@ -36,4 +36,5 @@ Rebuilding the database taught me the importance of careful planning, validation
 
 ## Links
 👉 [View Databases Enhancement](databases-enhancement.md) 
+
 👉 [View Databases Artifact](artifacts/original/DAD220)  
