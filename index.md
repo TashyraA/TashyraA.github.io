@@ -62,19 +62,19 @@ These are the original versions of my projects before enhancements were applied.
 
 Original Grazioso Salvare animal rescue management application from IT 145.
 
-👉 [View Software Engineering Artifact](original-artifacts/IT145)
+👉 [View Software Engineering Artifact](artifacts/original/IT145)
 
 ### 🔹 CS 300 – Original  
 
 Original Course Planner application using a Binary Search Tree from CS 300.
 
-👉 [View Algorithms Artifact](original-artifacts/CS300)
+👉 [View Algorithms Artifact](artifacts/original/CS300)
 
 ### 🔹 DAD 220 – Original  
 
 Original relational database project from DAD 220.
 
-👉 [View Databases Artifact](original-artifacts/DAD220)
+👉 [View Databases Artifact](artifacts/original/DAD220)
 
 ---
 
