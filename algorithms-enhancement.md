@@ -1,8 +1,13 @@
 <link rel="stylesheet" href="assets/style.css">
 
-
-[Home](index.md) | [Self-Assessment](self-assessment.md) | [Code Review](code-review.md) | [Software Eng](software-eng-enhancement.md) | [Algorithms](algorithms-enhancement.md) | [Databases](databases-enhancement.md)
-
+<div class="navbar">
+  <a href="index.md">Home</a> |
+  <a href="self-assessment.md">Self-Assessment</a> |
+  <a href="code-review.md">Code Review</a> |
+  <a href="software-eng-enhancement.md">Software Eng</a> |
+  <a href="algorithms-enhancement.md">Algorithms</a> |
+  <a href="databases-enhancement.md">Databases</a>
+</div>
 
 # Algorithms & Data Structures Enhancement (CS 300)
 
