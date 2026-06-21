@@ -31,6 +31,6 @@ This enhancement aligns with several Computer Science program outcomes. By impro
 Enhancing this artifact helped deepen my understanding of how data structures influence program behavior and performance. One challenge I encountered was ensuring that the BST insertion and search logic handled all edge cases correctly, especially when dealing with duplicate or missing course data. I resolved this by stepping through the logic manually, testing with multiple datasets, and restructuring the code to make the flow easier to follow. I also learned the importance of clear documentation—adding comments and reorganizing functions made the program significantly easier to debug and maintain. This enhancement strengthened my confidence in working with recursive algorithms, tree structures, and algorithmic design principles.
 
 ## Links
-👉 [View Algorithms Enhancement](algorithms-enhancement.md)
+👉 [View Algorithms Enhancement](artifact/algorithms)
 
 👉 [View Algorithms Artifact](artifact/original/CS300)  
