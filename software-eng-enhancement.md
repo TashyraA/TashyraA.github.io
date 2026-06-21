@@ -32,5 +32,5 @@ Enhancing this artifact helped me recognize how much I have grown since first co
 
 ## Links
 
-👉 [View Software Engineering Enhancement](software-eng-enhancement.md)  
+👉 [View Software Engineering Enhancement](software-eng)  
 👉 [View Software Engineering Original](artifacts/original/IT145) 
