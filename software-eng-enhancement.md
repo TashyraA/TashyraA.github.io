@@ -16,5 +16,4 @@ This enhancement aligns with several Computer Science program outcomes. By restr
 Enhancing this artifact helped me recognize how much I have grown since first completing IT 145. One of the main challenges I encountered was untangling the original logic and identifying which parts of the code needed restructuring. I approached this by breaking the program into smaller components, reviewing each class individually, and rewriting sections that were overly complex or repetitive. I also learned the importance of clear naming conventions and consistent documentation—small improvements in these areas made the entire program easier to understand and maintain. This enhancement strengthened my confidence in object‑oriented programming, software design, and the process of refactoring existing code to meet higher professional standards.
 
 ## Links
-- **Enhanced IT 145 Code:** *(insert link to your enhanced artifact folder here)*  
-- **Original Artifact:** *(insert link to your original IT 145 folder here)*  
+- [View the enhanced Software Design artifact on GitHub](artifacts/software-eng/)  
