@@ -35,5 +35,5 @@ This enhancement demonstrates:
 Enhancing this artifact deepened my understanding of how data structures influence performance and program behavior.
 
 ## Links
-👉 [View Algorithms Enhancement](algorithms-enhancement.md) 
+👉 [View Algorithms Enhancement](algorithms-enhancement.md)
 👉 [View Algorithms Artifact](artifact/original/CS300)  
