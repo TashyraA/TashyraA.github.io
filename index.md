@@ -44,10 +44,10 @@ These are the original versions of my projects before enhancements were applied.
 👉 [View Software Engineering Artifact](artifacts/original/IT145/)
 
 ### 🔹 CS 300 – Original  
-👉 *(Insert link to your original CS 300 folder)*
+👉 [View Algorithms Artifact](artifacts/original/CS300/)
 
 ### 🔹 DAD 220 – Original  
-👉 *(Insert link to your original DAD 220 folder)*
+👉 [View Databases Artifact](artifacts/original/DAD220/)
 
 ---
 
