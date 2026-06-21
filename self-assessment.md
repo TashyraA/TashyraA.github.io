@@ -1,3 +1,5 @@
+[Home](index.md) | [Self-Assessment](self-assessment.md) | [Code Review](code-review.md) | [Software Eng](software-eng-enhancement.md) | [Algorithms](algorithms-enhancement.md) | [Databases](databases-enhancement.md)
+
 # Professional Self-Assessment
 
 Completing the Computer Science program at Southern New Hampshire University has been a defining experience in my development as a software professional. Throughout the program, I have strengthened my technical abilities, expanded my understanding of core computer science principles, and learned how to apply these skills to real-world problems. Building my ePortfolio for CS 499 allowed me to revisit earlier work, enhance it with new knowledge, and demonstrate my growth across software engineering, algorithms and data structures, and database management. This process helped me clearly see how far I have come and how prepared I am to enter the field with confidence.
