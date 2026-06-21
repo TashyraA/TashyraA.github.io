@@ -9,20 +9,14 @@
   <a href="databases-enhancement.md">Databases</a>
 </div>
 
-# Code Review – CS 499
+# Code Review
 
-## Video Walkthrough
-[Watch the Code Review Videos](videos/code-review-link.txt)
+As part of the capstone process, I completed an informal code review to evaluate my original artifacts and identify opportunities for enhancement.
 
-## Original Artifacts
-- [IT‑145 Original Code](artifacts/original/IT145/)
-- [CS‑300 Original Code](artifacts/original/CS300/)
-- [DAD‑220 Original Code](artifacts/original/DAD220/)
+👉 [Watch the Code Review Videos](videos/code-review-link.txt)
 
-## Enhanced Artifacts
-- [IT-145 Enhanced Code](artifacts/software-eng/)
-- [CS-300 Enhanced Code](artifacts/algorithms/)
-- [DAD-220 Enhanced Code](artifacts/databases/)
-
-
-
+This review covers:
+- Existing functionality  
+- Code structure  
+- Areas for improvement  
+- Planned enhancements  
