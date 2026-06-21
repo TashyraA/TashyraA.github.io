@@ -4,6 +4,9 @@ Hello, and thank you for visiting my ePortfolio.
 My name is Tashyra Adams, and this site showcases the work I completed for CS 499: Computer Science Capstone at Southern New Hampshire University.  
 Here, you will find my enhanced artifacts, code review, and professional self‑assessment demonstrating my growth as a software developer.
 
+## Professional Self-Assessment
+[Read my self-assessment](self-assessment.md)
+
 ---
 
 ## ♡ Code Review  
