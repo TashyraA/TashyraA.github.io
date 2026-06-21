@@ -1,3 +1,6 @@
+[Home](index.md) | [Self-Assessment](self-assessment.md) | [Code Review](code-review.md) | [Software Eng](software-eng-enhancement.md) | [Algorithms](algorithms-enhancement.md) | [Databases](databases-enhancement.md)
+
+
 # Code Review – CS 499
 
 ## Video Walkthrough
