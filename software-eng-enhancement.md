@@ -1,25 +1,20 @@
-# Software Design and Engineering Enhancement
+# Software Design & Engineering Enhancement (IT 145)
 
-## Overview
-This artifact is my IT 145 Grazioso Rescue Animal Program. It demonstrates foundational software design and engineering skills, including object‑oriented programming, class design, and program logic.
+## Overview of the Artifact
+This artifact originates from IT 145: Foundation in Application Development. The original project involved developing the Grazioso Salvare animal intake and rescue management program. The application allowed users to store, update, and retrieve information about different types of rescue animals, including dogs and monkeys. The project demonstrated foundational skills in object‑oriented programming, class design, inheritance, and user‑driven program flow.
 
-## Original Artifact
-The original project implemented basic animal intake and reservation features using classes, inheritance, and user input handling.
+## Justification for Inclusion
+I selected this artifact for my ePortfolio because it represents my early foundation in software engineering and object‑oriented design. This project showcases my ability to design classes, implement inheritance, and structure a program around real‑world requirements. It also demonstrates my growth from writing basic procedural code to developing organized, modular, and maintainable software. Enhancing this artifact allowed me to revisit the original design, identify areas for improvement, and apply more advanced software engineering principles that I have learned throughout the program.
 
-## Enhancements Made
-- Improved program structure and readability
-- Refactored methods for clarity and maintainability
-- Added validation and error‑handling improvements
-- Applied instructor feedback from Milestone Two
-- Cleaned up class relationships and logic flow
+## Summary of Enhancements
+For this enhancement, I refactored the original codebase to improve structure, readability, and maintainability. I reorganized the class hierarchy to better reflect object‑oriented principles, improved method naming and documentation, and removed redundant or repetitive logic. I also strengthened input validation, added clearer user prompts, and ensured that the program handled invalid or unexpected input more gracefully. These enhancements resulted in a cleaner, more professional implementation that aligns with industry expectations for software design and engineering.
 
-## Why This Matters
-This artifact demonstrates my ability to:
-- Apply software engineering principles
-- Write clean, maintainable, object‑oriented code
-- Improve existing codebases through refactoring
-- Build functional console‑based applications
+## Course Outcomes Addressed
+This enhancement aligns with several Computer Science program outcomes. By restructuring the class design and improving the program’s architecture, I demonstrated my ability to design and evaluate computing solutions using appropriate software engineering practices. The improvements to readability, modularity, and documentation reflect my ability to communicate technical concepts clearly and produce maintainable code. Additionally, the enhancements support the outcome related to using well‑founded techniques and tools, as I applied object‑oriented principles, debugging strategies, and iterative testing to refine the artifact. Strengthening input validation and error handling also supports the outcome related to developing a security mindset.
 
-## Link to Enhanced Code
-[View the enhanced Software Engineering artifact on GitHub](https://github.com/TashyraA/TashyraA.github.io/tree/main/artifacts/software-eng/)
+## Process Reflection
+Enhancing this artifact helped me recognize how much I have grown since first completing IT 145. One of the main challenges I encountered was untangling the original logic and identifying which parts of the code needed restructuring. I approached this by breaking the program into smaller components, reviewing each class individually, and rewriting sections that were overly complex or repetitive. I also learned the importance of clear naming conventions and consistent documentation—small improvements in these areas made the entire program easier to understand and maintain. This enhancement strengthened my confidence in object‑oriented programming, software design, and the process of refactoring existing code to meet higher professional standards.
 
+## Links
+- **Enhanced IT 145 Code:** *(insert link to your enhanced artifact folder here)*  
+- **Original Artifact:** *(insert link to your original IT 145 folder here)*  
